@@ -40,7 +40,7 @@ FoodieHub is a complete full-stack food ordering web application that allows use
   - [foodiehub-admin](https://github.com/meghnabansod26/foodiehub-admin)
 
 
-## 🌐 Live Deployment (If Available)
+## 🌐 Live Deployment
 
 - User Application:
   - [https://foodiehub-meghna.vercel.app/](https://foodiehub-meghna.vercel.app/)
