@@ -31,13 +31,13 @@ FoodieHub is a complete full-stack food ordering web application that allows use
 ## 🔗 Project Repositories
 
 - 🖥 Frontend:
-  - [https://github.com/your-username/foodiehub-frontend](https://github.com/meghnabansod26/foodiehub-frontend)
+  - [foodiehub-frontend](https://github.com/meghnabansod26/foodiehub-frontend)
 
 - ⚙ Backend:
-  - [https://github.com/your-username/foodiehub-backend](https://github.com/meghnabansod26/foodiehub-backend)
+  - [foodiehub-backend](https://github.com/meghnabansod26/foodiehub-backend)
     
 - 🛠 Admin Panel:
-  - [https://github.com/your-username/foodiehub-admin](https://github.com/meghnabansod26/foodiehub-admin)
+  - [foodiehub-admin](https://github.com/meghnabansod26/foodiehub-admin)
 
 
 ## 🌐 Live Deployment (If Available)
